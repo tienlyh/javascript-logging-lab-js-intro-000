@@ -1,2 +1,2 @@
 console.error("HALP!")
-console.console.log("I would be a logger");
+console.log("I would be a logger");
